@@ -135,10 +135,13 @@
 
 
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+<h3 align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30" />
+  &nbsp; GitHub Stats
+</h3>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/JoseOlannn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseOlannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseOlannn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
