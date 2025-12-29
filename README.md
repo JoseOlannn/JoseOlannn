@@ -1,77 +1,114 @@
 <h1 align="center"><b>Hi , I'm Jose Olan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br clear="both">
 
-🎓 **Software Engineering student**  
-📊 Focused on **Data Science & Business Intelligence**  
-☁️ Interested in **Cloud Computing & Virtualized Systems**  
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I3eTgzY2Fyc3E3bXRlcmhjNGJlbjM4cHg5ZDNvaXJycHBqM2dnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5ddOOJJ7gtKTgNac/giphy.gif"  />
 
----
+###
 
-### 🚀 About me
-- 💻 Passionate about building **information systems** and **data-driven solutions**
-- 📈 Currently strengthening my path from **Data Analysis → Data Science**
-- ☁️ Exploring **Cloud platforms (AWS, Azure, Oracle OCI)** and certifications
-- 🧠 Strong interest in **databases, backend development, and system architecture**
-- 🏫 University student with hands-on academic and personal projects
+<div align="right">
+  <a href="https://www.linkedin.com/in/jose-olan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="olanj3531@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me/707682807505485935" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
----
+###
 
-### 🛠️ Tech Stack
-**Languages**
-- Python
-- SQL
-- C / Assembly (TASM)
-- Bash
+<br clear="both">
 
-**Frameworks & Tools**
-- Django
-- Tkinter
-- Git & GitHub
-- Linux (Fedora, Cygwin)
-- SQL Server
-- MongoDB
+<h3 align="left">🧩 Programming Languages</h3>
 
-**Cloud & Systems**
-- Oracle Cloud (OCI)
-- AWS (basics)
-- Virtualization concepts
-- Networking fundamentals
+###
 
----
+<br clear="both">
 
-### 📂 Featured Projects
-- 🏥 **VITPHARMA** – Pharmacy Management System  
-  Role-based access, inventory control, sales, reports & alerts  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
-- 🎬 **Cinema Management System**  
-  Python + SQL Server with admin/employee roles  
+###
 
-- 🧠 **Custom Programming Language Lexer**  
-  Token validation, syntax errors, arrays & conditionals  
+<h3 align="left">🗄️ Databases</h3>
 
-- 🐍 **Snake Game in Assembly (TASM)**  
-  Low-level optimization and game logic  
+###
 
----
+<br clear="both">
 
-### 📊 Currently Learning
-- Advanced **Data Analysis & Machine Learning**
-- Cloud certifications ☁️
-- Scalable backend architectures
-- Clean code & software design patterns
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
----
+###
 
-### 📫 Connect with me
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(optional)*
-- 🌐 GitHub: [github.com/JoseOlannn](https://github.com/JoseOlannn)
+<h3 align="left">🧪 Backend</h3>
 
----
+###
 
-### ⚡ Fun fact
-I enjoy working close to the **hardware level** as much as extracting insights from **data**.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
 
----
+###
 
-⭐ *Always learning, always building.*
+<h3 align="left">🎨 Frontend</h3>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
+
+###
+
+<h3 align="left">☁️ Cloud & DevOps</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
