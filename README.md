@@ -135,9 +135,7 @@
 
 ###
 
-⚙️ &nbsp;GitHub Analytics
-
-### ⚙️ &nbsp;GitHub Analytics
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <p align="center">
 <a href="https://github.com/AVS1508">
