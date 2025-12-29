@@ -1,16 +1,77 @@
-## Hi there 👋
+## 👋 Hi, I'm José Ángel (JoseOlannn)
 
-<!--
-**JoseOlannn/JoseOlannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering student**  
+📊 Focused on **Data Science & Business Intelligence**  
+☁️ Interested in **Cloud Computing & Virtualized Systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+- 💻 Passionate about building **information systems** and **data-driven solutions**
+- 📈 Currently strengthening my path from **Data Analysis → Data Science**
+- ☁️ Exploring **Cloud platforms (AWS, Azure, Oracle OCI)** and certifications
+- 🧠 Strong interest in **databases, backend development, and system architecture**
+- 🏫 University student with hands-on academic and personal projects
+
+---
+
+### 🛠️ Tech Stack
+**Languages**
+- Python
+- SQL
+- C / Assembly (TASM)
+- Bash
+
+**Frameworks & Tools**
+- Django
+- Tkinter
+- Git & GitHub
+- Linux (Fedora, Cygwin)
+- SQL Server
+- MongoDB
+
+**Cloud & Systems**
+- Oracle Cloud (OCI)
+- AWS (basics)
+- Virtualization concepts
+- Networking fundamentals
+
+---
+
+### 📂 Featured Projects
+- 🏥 **VITPHARMA** – Pharmacy Management System  
+  Role-based access, inventory control, sales, reports & alerts  
+
+- 🎬 **Cinema Management System**  
+  Python + SQL Server with admin/employee roles  
+
+- 🧠 **Custom Programming Language Lexer**  
+  Token validation, syntax errors, arrays & conditionals  
+
+- 🐍 **Snake Game in Assembly (TASM)**  
+  Low-level optimization and game logic  
+
+---
+
+### 📊 Currently Learning
+- Advanced **Data Analysis & Machine Learning**
+- Cloud certifications ☁️
+- Scalable backend architectures
+- Clean code & software design patterns
+
+---
+
+### 📫 Connect with me
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: *(optional)*
+- 🌐 GitHub: [github.com/JoseOlannn](https://github.com/JoseOlannn)
+
+---
+
+### ⚡ Fun fact
+I enjoy working close to the **hardware level** as much as extracting insights from **data**.
+
+---
+
+⭐ *Always learning, always building.*
+
