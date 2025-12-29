@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-  Software Engineering Student • Data Science • Backend • Cloud
-</p>
-
 <br clear="both">
 
 <img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I3eTgzY2Fyc3E3bXRlcmhjNGJlbjM4cHg5ZDNvaXJycHBqM2dnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5ddOOJJ7gtKTgNac/giphy.gif"  />
@@ -14,6 +10,14 @@
 ###
 
 <p align="center">🎓 Computer Systems Engineering Student<br><br>📊 Business Intelligence and Data Science<br><br>☁️Cloud and AI Enthusiast</p>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Profile&fontSize=70&fontColor=E8F272&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5574C2"  />
+</div>
 
 ###
 
@@ -130,7 +134,6 @@
 </div>
 
 ###
-
 <p align="center">
   🚀 Always learning • Always building • Focused on Backend, Data & Cloud
 </p>
