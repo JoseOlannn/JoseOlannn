@@ -134,6 +134,17 @@
 </div>
 
 ###
+
+⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseOlannn&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOlannn&layout=compact&theme=algolia" />
+
+</a>
+</p>
+
 <p align="center">
   🚀 Always learning • Always building • Focused on Backend, Data & Cloud
 </p>
