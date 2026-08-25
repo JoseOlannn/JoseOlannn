@@ -37,27 +37,20 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<table align="center" border="0" style="width: 100%; background: transparent;">
-  <tr>
-    <td width="60%" valign="top" style="padding-right: 20px;">
-      <blockquote>
-        <p>I'm a <b>Computer Systems Engineering student</b> passionate about transforming ideas into practical, scalable, and robust software solutions. I thrive on solving complex problems and exploring cutting-edge technologies.</p>
-      </blockquote>
-      <br/>
-      <h3>✨ What I Do</h3>
-      <ul>
-        <li>💻 Building high-performance <b>Web Applications</b> & <b>Backend Systems</b></li>
-        <li>📊 Exploring <b>Data Analysis</b>, <b>Business Intelligence</b>, & <b>Data Science</b></li>
-        <li>🤖 Learning and applying <b>AI & Machine Learning</b> models</li>
-        <li>☁️ Expanding my expertise in <b>Cloud Computing & DevOps</b></li>
-      </ul>
-      <p><i>🚀 Always building, learning, and experimenting with new tech!</i></p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" width="300" style="border-radius: 20px;" />
-    </td>
-  </tr>
-</table>
+<img align="right" height="280" src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" />
+
+> I'm a **Computer Systems Engineering student** passionate about transforming ideas into practical, scalable, and robust software solutions. I thrive on solving complex problems and exploring cutting-edge technologies.
+
+**✨ What I Do:**
+
+- 💻 Building high-performance **Web Applications** & **Backend Systems**
+- 📊 Exploring **Data Analysis**, **Business Intelligence**, & **Data Science**
+- 🤖 Learning and applying **AI & Machine Learning** models
+- ☁️ Expanding my expertise in **Cloud Computing & DevOps**
+
+*🚀 Always building, learning, and experimenting with new tech!*
+
+<br clear="both"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=gradient&customColorList=1&theme=tokyonight" width="100%" />
@@ -184,15 +177,15 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseOlannn&theme=tokyonight" height="150" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseOlannn&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoseOlannn&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=JoseOlannn&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseOlannn&theme=tokyonight" height="150" alt="Top Languages" />
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseOlannn&theme=tokyonight" height="180" alt="Stats" />
+</p>
 
 <br/>
 <div align="center">
