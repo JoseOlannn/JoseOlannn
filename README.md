@@ -53,7 +53,7 @@ _🚀 Always building, learning, and experimenting with new tech!_
 <br clear="both">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" width="380" style="border-radius: 15px;" />
+  <img src="assets/about-me.gif" width="380" style="border-radius: 15px;" />
 </p>
 
 <div align="center">
@@ -181,11 +181,13 @@ _🚀 Always building, learning, and experimenting with new tech!_
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseOlannn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="180" alt="stats graph" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseOlannn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseOlannn&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseOlannn&theme=tokyonight" height="180" alt="Stats" />
+</p>
 
 <br/>
 <div align="center">
