@@ -46,7 +46,7 @@
 - 🤖 Learning and applying **AI & Machine Learning** models
 - ☁️ Expanding my expertise in **Cloud Computing & DevOps**
 
-*🚀 Always building, learning, and experimenting with new tech!*
+_🚀 Always building, learning, and experimenting with new tech!_
 
 <br/>
 
@@ -181,14 +181,13 @@
 
 <br/>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JoseOlannn/JoseOlannn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/JoseOlannn/JoseOlannn/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseOlannn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="180" alt="stats graph" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseOlannn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
 </div>
 
 <br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=1&section=footer&animation=twinkling&theme=tokyonight" width="100%" />
 </div>
-
-
