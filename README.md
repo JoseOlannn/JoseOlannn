@@ -54,7 +54,7 @@
       <p><i>🚀 Always building, learning, and experimenting with new tech!</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjbnI0czlicjNiZGM3NmljM292azZxZWRzMGRod3UxMXRzb2lrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/woQcOZLcitzhahbqLq/giphy.gif" width="100%" style="border-radius: 20px;" />
+      <img src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" width="300" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
@@ -187,7 +187,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseOlannn&theme=tokyonight" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseOlannn&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JoseOlannn&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
