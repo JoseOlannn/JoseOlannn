@@ -37,8 +37,6 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" height="280" src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" />
-
 > I'm a **Computer Systems Engineering student** passionate about transforming ideas into practical, scalable, and robust software solutions. I thrive on solving complex problems and exploring cutting-edge technologies.
 
 **✨ What I Do:**
@@ -50,7 +48,11 @@
 
 *🚀 Always building, learning, and experimenting with new tech!*
 
-<br clear="both"/>
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" width="300" style="border-radius: 15px;" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=gradient&customColorList=1&theme=tokyonight" width="100%" />
@@ -182,8 +184,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoseOlannn&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseOlannn&theme=tokyonight" height="180" alt="Stats" />
 </p>
 
