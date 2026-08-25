@@ -50,8 +50,10 @@
 
 <br/>
 
+<br clear="both">
+
 <p align="center">
-  <img src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" width="300" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/woQcOZLcitzhahbqLq/giphy.gif" width="380" style="border-radius: 15px;" />
 </p>
 
 <div align="center">
@@ -179,15 +181,14 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseOlannn&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseOlannn&theme=tokyonight" height="180" alt="Stats" />
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/JoseOlannn/JoseOlannn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/JoseOlannn/JoseOlannn/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=1&section=footer&animation=twinkling&theme=tokyonight" width="100%" />
 </div>
+
+
